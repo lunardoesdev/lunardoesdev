@@ -46,6 +46,8 @@
 - **MSXクロスコンパイル**：再現可能なC/ASM ROMビルド
 - **niqlite**：FTS5対応SQLiteをラップするNimライブラリ
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **notetask**（フォーク）：希望する日時フォーマットを強制設定
+  [GitHub](https://github.com/lunardoesdev/notetask)
 
 ## 商業経験
 **PHP開発者 — 約1.5年（2015〜2016年、NDA）**

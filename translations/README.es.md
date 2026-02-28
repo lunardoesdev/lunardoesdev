@@ -45,6 +45,8 @@ integración con la bandeja del sistema, huella de recursos mínima.
 - **Compilación cruzada MSX**: builds reproducibles de ROM en C/ASM
 - **niqlite**: librería Nim que envuelve SQLite con soporte FTS5
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **notetask** (fork): formato de fecha y hora forzado según preferencia
+  [GitHub](https://github.com/lunardoesdev/notetask)
 
 ## Experiencia Comercial
 **Desarrollador PHP — ~1.5 años (2015–2016, NDA)**

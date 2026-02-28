@@ -45,6 +45,8 @@
 - **MSX 交叉编译**：可重现的 C/ASM ROM 构建
 - **niqlite**：封装 SQLite 并支持 FTS5 的 Nim 库
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **notetask**（fork）：强制设置所需的日期时间格式
+  [GitHub](https://github.com/lunardoesdev/notetask)
 
 ## 商业经历
 **PHP 开发者 — 约 1.5 年（2015–2016，保密协议）**

@@ -48,6 +48,8 @@ system tray integration, minimal resource footprint.
 - **MSX cross-compilation**: reproducible C/ASM ROM builds
 - **niqlite**: Nim library wrapping SQLite with FTS5 support
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **notetask** (fork): force-set desired datetime format
+  [GitHub](https://github.com/lunardoesdev/notetask)
 
 ## Commercial
 **PHP Developer — ~1.5 years (2015–2016, NDA)**

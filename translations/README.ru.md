@@ -46,6 +46,8 @@ VMess, Shadowsocks, Hysteria). Нулевая конфигурация по ум
 - **MSX кросс-компиляция**: воспроизводимые C/ASM ROM-сборки
 - **niqlite**: Nim-библиотека, оборачивающая SQLite с поддержкой FTS5
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **notetask** (форк): принудительная установка нужного формата даты и времени
+  [GitHub](https://github.com/lunardoesdev/notetask)
 
 ## Коммерческий опыт
 **PHP-разработчик — ~1.5 года (2015–2016, NDA)**

@@ -46,6 +46,8 @@
 - **MSX 크로스 컴파일**: 재현 가능한 C/ASM ROM 빌드
 - **niqlite**: FTS5를 지원하는 SQLite 래퍼 Nim 라이브러리
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **notetask** (포크): 원하는 날짜/시간 형식 강제 설정
+  [GitHub](https://github.com/lunardoesdev/notetask)
 
 ## 상업 경력
 **PHP 개발자 — 약 1.5년 (2015–2016, NDA)**
