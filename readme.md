@@ -58,6 +58,12 @@ under deadlines. Legacy work; current focus is systems
 and networking tooling.
 
 ## Scripts & Utilities
+**lunardoesnix** - My nixos configuration that is easier to deploy to nixos installation than others, you don't need to copy it to /etc/nixos.
+[GitHub](https://github.com/lunardoesdev/lunardoesnix)
+
+**Yggdrahost** - An approach to host multiple sites and bots ans apps in single bun js process using modular mountable apps.
+[GitHub](https://github.com/lunardoesdev/yggdrahost)
+
 **backup-my-git** — Guile script for backing up Git repositories.
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 
