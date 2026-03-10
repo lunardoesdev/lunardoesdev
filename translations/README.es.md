@@ -45,6 +45,12 @@ Aplicación nativa y ligera de escritorio para Linux. Reproducción en streaming
 Desarrollo de funcionalidades backend, optimización de SQL y caché. Entregas cumpliendo plazos estrictos. Trabajo antiguo; enfoque actual en herramientas de sistemas y redes.
 
 ## Scripts y Utilidades
+**lunardoesnix** — Mi configuración de NixOS, más fácil de desplegar en una instalación de NixOS que otras; no necesitas copiarla a /etc/nixos.
+[GitHub](https://github.com/lunardoesdev/lunardoesnix)
+
+**Yggdrahost** — Un enfoque para alojar múltiples sitios, bots y aplicaciones en un solo proceso de Bun JS utilizando aplicaciones modulares montables.
+[GitHub](https://github.com/lunardoesdev/yggdrahost)
+
 **backup-my-git** — Script en Guile para crear copias de seguridad de repositorios Git.
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

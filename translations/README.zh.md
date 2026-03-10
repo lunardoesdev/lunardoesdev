@@ -45,6 +45,12 @@
 负责后端功能开发、SQL 优化与缓存策略。确保在项目截止日期前完成交付。这是早期的工作经历，目前的重心已转移至系统与网络工具开发。
 
 ## 脚本与工具
+**lunardoesnix** — 我的 NixOS 配置，比其他的更容易部署到 NixOS 安装环境中，无需将其复制到 /etc/nixos。
+[GitHub](https://github.com/lunardoesdev/lunardoesnix)
+
+**Yggdrahost** — 一种通过模块化可挂载应用在单个 bun js 进程中托管多个网站、机器人和应用程序的方法。
+[GitHub](https://github.com/lunardoesdev/yggdrahost)
+
 **backup-my-git** — 用于备份 Git 仓库的 Guile 脚本。
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

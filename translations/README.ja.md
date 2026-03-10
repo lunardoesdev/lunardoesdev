@@ -45,6 +45,12 @@
 バックエンドの機能開発、SQLの最適化、キャッシュ処理を担当。厳しい期限内での製品リリースを達成しました。過去の経歴であり、現在の焦点はシステムおよびネットワークツールにあります。
 
 ## スクリプトとユーティリティ
+**lunardoesnix** — 私の NixOS 設定。他のものより NixOS インストール環境への展開が簡単で、/etc/nixos にコピーする必要はありません。
+[GitHub](https://github.com/lunardoesdev/lunardoesnix)
+
+**Yggdrahost** — モジュール式のマウント可能なアプリを使用して、単一の bun js プロセスで複数のサイト、ボット、アプリをホストするアプローチ。
+[GitHub](https://github.com/lunardoesdev/yggdrahost)
+
 **backup-my-git** — GitリポジトリをバックアップするためのGuileスクリプト。
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

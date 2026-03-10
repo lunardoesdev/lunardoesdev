@@ -45,6 +45,12 @@
 백엔드 기능 개발, SQL 최적화, 캐싱 작업 등을 담당했으며, 마감 기한 내에 성공적으로 제품을 출시했습니다. 과거의 경험이며, 현재는 시스템 및 네트워크 도구 개발에 집중하고 있습니다.
 
 ## 스크립트 및 유틸리티
+**lunardoesnix** — 내 NixOS 구성. 다른 구성보다 NixOS 설치 환경에 배포하기 쉬우며 /etc/nixos에 복사할 필요가 없습니다.
+[GitHub](https://github.com/lunardoesdev/lunardoesnix)
+
+**Yggdrahost** — 모듈식 마운트 가능한 앱을 사용하여 단일 bun js 프로세스에서 여러 사이트, 봇 및 앱을 호스팅하는 접근 방식.
+[GitHub](https://github.com/lunardoesdev/yggdrahost)
+
 **backup-my-git** — Git 저장소를 백업하기 위한 Guile 스크립트.
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 
