@@ -68,6 +68,9 @@ POSIX システムで C および C++ プロジェクトをビルドする際の
 （MP3プレーヤーに最適で、カバー画像の埋め込みやスマートな命名規則をサポート）。
 [GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
 
+**file2doc** — テキストファイルを、同じパスにそれらのファイルを再現するbashスクリプトに変換するユーティリティ。
+[GitHub](https://github.com/lunardoesdev/file2doc)
+
 ## 実験的なプロジェクト
 **Fruit Friction** — Kaplay.jsで作られた物理ベースのパズルゲーム。形状と摩擦が鍵となります。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

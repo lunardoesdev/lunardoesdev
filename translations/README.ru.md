@@ -68,6 +68,9 @@
 (идеально для MP3-плееров, с обложками и умной схемой именования).
 [GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
 
+**file2doc** — Утилита, которая конвертирует текстовые файлы в bash-скрипт, воссоздающий эти файлы по тем же путям.
+[GitHub](https://github.com/lunardoesdev/file2doc)
+
 ## Эксперименты
 **Fruit Friction** — Физическая головоломка на движке Kaplay.js, где всё зависит от формы объектов и силы трения.
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

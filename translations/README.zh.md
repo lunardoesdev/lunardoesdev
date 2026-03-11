@@ -68,6 +68,9 @@
 （非常适合 MP3 播放器，支持内嵌封面和智能命名方案）。
 [GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
 
+**file2doc** — 将文本文件转换为 bash 脚本的实用工具，该脚本能在相同路径下重新生成这些文件。
+[GitHub](https://github.com/lunardoesdev/file2doc)
+
 ## 实验性项目
 **Fruit Friction** — 基于 Kaplay.js 的物理引擎解谜游戏，形状与摩擦力是通关的关键。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

@@ -68,6 +68,9 @@ Desarrollo de funcionalidades backend, optimización de SQL y caché. Entregas c
 (ideal para reproductores MP3, con portadas integradas y esquemas de nomenclatura inteligentes).
 [GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
 
+**file2doc** — Utilidad que convierte archivos de texto en un script de bash que reproduce esos archivos en las mismas rutas.
+[GitHub](https://github.com/lunardoesdev/file2doc)
+
 ## Experimentos
 **Fruit Friction** — Puzzle basado en físicas con Kaplay.js donde la forma y la fricción son claves.
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

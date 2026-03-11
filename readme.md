@@ -83,6 +83,9 @@ and networking tooling.
 (ideal for MP3 players, features embedded covers and smart naming schemes).
 [GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
 
+**file2doc** — Utility that converts text files to a bash script that reproduces those files in the same paths.
+[GitHub](https://github.com/lunardoesdev/file2doc)
+
 ## Experiments
 **Fruit Friction** — Physics-based puzzle on Kaplay.js
 where shape and friction matter.
