@@ -76,6 +76,9 @@ and networking tooling.
 **Yggdrahost** - An approach to host multiple sites and bots ans apps in single bun js process using modular mountable apps.
 [GitHub](https://github.com/lunardoesdev/yggdrahost)
 
+**@mawetherbotoboto_bot** — Telegram bot that can display weather.
+[Source Code](https://github.com/lunardoesdev/yggdrahost/blob/main/modules/bots/weatherbot101.ts)
+
 **backup-my-git** — Guile script for backing up Git repositories.
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

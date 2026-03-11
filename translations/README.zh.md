@@ -61,6 +61,9 @@
 **Yggdrahost** — 一种通过模块化可挂载应用在单个 bun js 进程中托管多个网站、机器人和应用程序的方法。
 [GitHub](https://github.com/lunardoesdev/yggdrahost)
 
+**@mawetherbotoboto_bot** — 可以显示天气的 Telegram 机器人。
+[源代码](https://github.com/lunardoesdev/yggdrahost/blob/main/modules/bots/weatherbot101.ts)
+
 **backup-my-git** — 用于备份 Git 仓库的 Guile 脚本。
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

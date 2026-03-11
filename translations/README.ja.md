@@ -61,6 +61,9 @@ POSIX システムで C および C++ プロジェクトをビルドする際の
 **Yggdrahost** — モジュール式のマウント可能なアプリを使用して、単一の bun js プロセスで複数のサイト、ボット、アプリをホストするアプローチ。
 [GitHub](https://github.com/lunardoesdev/yggdrahost)
 
+**@mawetherbotoboto_bot** — 天気を表示できるTelegramボット。
+[ソースコード](https://github.com/lunardoesdev/yggdrahost/blob/main/modules/bots/weatherbot101.ts)
+
 **backup-my-git** — GitリポジトリをバックアップするためのGuileスクリプト。
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

@@ -61,6 +61,9 @@ Desarrollo de funcionalidades backend, optimización de SQL y caché. Entregas c
 **Yggdrahost** — Un enfoque para alojar múltiples sitios, bots y aplicaciones en un solo proceso de Bun JS utilizando aplicaciones modulares montables.
 [GitHub](https://github.com/lunardoesdev/yggdrahost)
 
+**@mawetherbotoboto_bot** — Bot de Telegram que puede mostrar el clima.
+[Código Fuente](https://github.com/lunardoesdev/yggdrahost/blob/main/modules/bots/weatherbot101.ts)
+
 **backup-my-git** — Script en Guile para crear copias de seguridad de repositorios Git.
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 

@@ -61,6 +61,9 @@
 **Yggdrahost** — Подход к хостингу множества сайтов, ботов и приложений в едином процессе Bun JS с использованием модульных монтируемых приложений.
 [GitHub](https://github.com/lunardoesdev/yggdrahost)
 
+**@mawetherbotoboto_bot** — Telegram-бот для отображения погоды.
+[Исходный код](https://github.com/lunardoesdev/yggdrahost/blob/main/modules/bots/weatherbot101.ts)
+
 **backup-my-git** — Guile-скрипт для бэкапа Git-репозиториев.
 [GitHub](https://github.com/lunardoesdev/backup-my-git)
 
