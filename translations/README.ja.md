@@ -60,6 +60,9 @@ POSIX システムで C および C++ プロジェクトをビルドする際の
 バックエンドの機能開発、SQLの最適化、キャッシュ処理を担当。厳しい期限内での製品リリースを達成しました。過去の経歴であり、現在の焦点はシステムおよびネットワークツールにあります。
 
 ## スクリプトとユーティリティ
+**gitbacklist** — GitHub プロファイルや git 互換ホスト向けの増分 git バックアップツール。ローカルミラーを同期状態に保ちます。
+[GitHub](https://github.com/lunardoesdev/gitbacklist)
+
 **lunardoesnix** — 私の NixOS 設定。他のものより NixOS インストール環境への展開が簡単で、/etc/nixos にコピーする必要はありません。
 [GitHub](https://github.com/lunardoesdev/lunardoesnix)
 

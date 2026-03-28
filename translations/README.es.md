@@ -60,6 +60,9 @@ Colección de compiladores cruzados y cadenas de herramientas para apuntar a dif
 Desarrollo de funcionalidades backend, optimización de SQL y caché. Entregas cumpliendo plazos estrictos. Trabajo antiguo; enfoque actual en herramientas de sistemas y redes.
 
 ## Scripts y Utilidades
+**gitbacklist** — Herramienta de copia de seguridad incremental de git para perfiles de GitHub y hosts compatibles con git, manteniendo los espejos locales sincronizados.
+[GitHub](https://github.com/lunardoesdev/gitbacklist)
+
 **lunardoesnix** — Mi configuración de NixOS, más fácil de desplegar en una instalación de NixOS que otras; no necesitas copiarla a /etc/nixos.
 [GitHub](https://github.com/lunardoesdev/lunardoesnix)
 

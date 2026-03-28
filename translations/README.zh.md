@@ -59,6 +59,9 @@
 负责后端功能开发、SQL 优化与缓存策略。确保在项目截止日期前完成交付。这是早期的工作经历，目前的重心已转移至系统与网络工具开发。
 
 ## 脚本与工具
+**gitbacklist** — 用于 GitHub 个人资料和兼容 git 的主机的增量 git 备份工具，保持本地镜像同步。
+[GitHub](https://github.com/lunardoesdev/gitbacklist)
+
 **lunardoesnix** — 我的 NixOS 配置，比其他的更容易部署到 NixOS 安装环境中，无需将其复制到 /etc/nixos。
 [GitHub](https://github.com/lunardoesdev/lunardoesnix)
 

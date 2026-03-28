@@ -75,6 +75,9 @@ under deadlines. Legacy work; current focus is systems
 and networking tooling.
 
 ## Scripts & Utilities
+**gitbacklist** — Incremental git backup tool for GitHub profiles and git-compatible hosts, maintaining synchronized local mirrors.
+[GitHub](https://github.com/lunardoesdev/gitbacklist)
+
 **lunardoesnix** - My nixos configuration that is easier to deploy to nixos installation than others, you don't need to copy it to /etc/nixos.
 [GitHub](https://github.com/lunardoesdev/lunardoesnix)
 
