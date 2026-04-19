@@ -39,7 +39,8 @@ ready-to-deploy Fedora Workstation live environment.
 
 **nixos-fused** — Declarative NixOS configuration flake
 Features automated Disko partitioning, a robust hybrid EFI/BIOS
-Limine bootloader layout, and a secure LUKS-encrypted Btrfs root.
+Limine bootloader layout with 32-bit (ia32) UEFI support,
+and a secure LUKS-encrypted Btrfs root.
 [GitHub](https://github.com/lunardoesdev/nixos-fused)
 
 **Singerbox** — Go bindings for sing-box proxy engine

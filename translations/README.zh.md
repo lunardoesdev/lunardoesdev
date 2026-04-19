@@ -32,8 +32,8 @@ Fedora Workstation 实时环境。
 [GitHub](https://github.com/lunardoesdev/fedorafused)
 
 **nixos-fused** — 声明式 NixOS 配置 Flake
-具有 Disko 自动分区、强大的混合 EFI/BIOS Limine 引导加载程序布局，
-以及安全的 LUKS 加密 Btrfs 根文件系统。
+具有 Disko 自动分区、支持 32 位 (ia32) UEFI 的强大混合 EFI/BIOS
+Limine 引导加载程序布局，以及安全的 LUKS 加密 Btrfs 根文件系统。
 [GitHub](https://github.com/lunardoesdev/nixos-fused)
 
 **Singerbox** — sing-box 代理引擎的 Go 语言绑定

@@ -33,8 +33,9 @@ KIWI NG를 사용한 자동화된 빌드 파이프라인으로 즉시 배포 가
 [GitHub](https://github.com/lunardoesdev/fedorafused)
 
 **nixos-fused** — 선언적 NixOS 구성 Flake
-Disko 자동 파티셔닝, 강력한 하이브리드 EFI/BIOS Limine 부트로더 레이아웃,
-그리고 안전한 LUKS 암호화 Btrfs 루트 파일 시스템을 특징으로 합니다.
+Disko 자동 파티셔닝, 32비트(ia32) UEFI를 지원하는 강력한 하이브리드
+EFI/BIOS Limine 부트로더 레이아웃, 그리고 안전한 LUKS 암호화 Btrfs
+루트 파일 시스템을 특징으로 합니다.
 [GitHub](https://github.com/lunardoesdev/nixos-fused)
 
 **Singerbox** — sing-box 프록시 엔진을 위한 Go 바인딩

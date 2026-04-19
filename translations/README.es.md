@@ -34,8 +34,8 @@ en vivo de Fedora Workstation a medida y listo para implementar.
 
 **nixos-fused** — Flake de configuración declarativa para NixOS
 Incluye particionado automático con Disko, un diseño de gestor de
-arranque Limine híbrido (EFI/BIOS) robusto y un directorio raíz
-Btrfs seguro y cifrado con LUKS.
+arranque Limine híbrido (EFI/BIOS) robusto con soporte para UEFI de 32 bits (ia32),
+y un directorio raíz Btrfs seguro y cifrado con LUKS.
 [GitHub](https://github.com/lunardoesdev/nixos-fused)
 
 **Singerbox** — Bindings en Go para el motor de proxy sing-box.

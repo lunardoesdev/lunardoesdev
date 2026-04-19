@@ -34,7 +34,8 @@
 
 **nixos-fused** — Декларативная конфигурация NixOS (Flake)
 Включает автоматическую разметку дисков с помощью Disko, надежную гибридную
-схему загрузчика Limine (EFI/BIOS) и безопасный корень Btrfs с шифрованием LUKS.
+схему загрузчика Limine (EFI/BIOS) с поддержкой 32-битного (ia32) UEFI,
+и безопасный корень Btrfs с шифрованием LUKS.
 [GitHub](https://github.com/lunardoesdev/nixos-fused)
 
 **Singerbox** — Go-биндинги для прокси-движка sing-box.

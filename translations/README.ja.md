@@ -33,8 +33,9 @@ KIWI NG を使用した自動ビルドパイプラインにより、展開準備
 [GitHub](https://github.com/lunardoesdev/fedorafused)
 
 **nixos-fused** — 宣言的な NixOS 構成の Flake
-Disko による自動パーティショニング、堅牢なハイブリッド EFI/BIOS
-Limine ブートローダーのレイアウト、安全な LUKS 暗号化 Btrfs ルートを備えています。
+Disko による自動パーティショニング、32ビット (ia32) UEFIをサポートする
+堅牢なハイブリッド EFI/BIOS Limine ブートローダーのレイアウト、
+安全な LUKS 暗号化 Btrfs ルートを備えています。
 [GitHub](https://github.com/lunardoesdev/nixos-fused)
 
 **Singerbox** — sing-boxプロキシエンジンのGoバインディング
