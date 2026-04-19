@@ -27,9 +27,26 @@ Desarrollo herramientas de bajo nivel, bindings para protocolos y aplicaciones m
 pero el proceso de creación se detalla).
 [GitHub](https://github.com/lunardoesdev/mintfused)
 
+**fedorafused** — ISO en vivo personalizada de Fedora Workstation
+Canal de compilación automatizado con KIWI NG para generar un entorno
+en vivo de Fedora Workstation a medida y listo para implementar.
+[GitHub](https://github.com/lunardoesdev/fedorafused)
+
+**nixos-fused** — Flake de configuración declarativa para NixOS
+Incluye particionado automático con Disko, un diseño de gestor de
+arranque Limine híbrido (EFI/BIOS) robusto y un directorio raíz
+Btrfs seguro y cifrado con LUKS.
+[GitHub](https://github.com/lunardoesdev/nixos-fused)
+
 **Singerbox** — Bindings en Go para el motor de proxy sing-box.
 Generación de instancias en el mismo proceso desde cualquier enlace (VLESS, VMess, Shadowsocks, Hysteria). Configuración automática por defecto y cierre limpio. Integrable, sin subprocesos.
 [GitHub](https://github.com/lunardoesdev/singerbox)
+
+**singerbench2** — Probador de enlaces proxy de alto rendimiento
+Ingiere enlaces de suscripción (VLESS, VMess, etc.) y evalúa la
+disponibilidad de los nodos, filtrando de manera confiable los
+puntos muertos para generar únicamente servidores activos y funcionales.
+[GitHub](https://github.com/lunardoesdev/singerbench2)
 
 **Radihypn** — Radio por internet en C++/GTK3 con icono en la bandeja del sistema.
 Aplicación nativa y ligera de escritorio para Linux. Reproducción en streaming, integración en la bandeja del sistema y mínimo consumo de recursos.

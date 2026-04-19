@@ -27,9 +27,25 @@
 но процесс создания описан детально).
 [GitHub](https://github.com/lunardoesdev/mintfused)
 
+**fedorafused** — Кастомный Live ISO Fedora Workstation
+Автоматизированный пайплайн сборки с использованием KIWI NG для
+генерации готового к развертыванию Live-окружения Fedora Workstation.
+[GitHub](https://github.com/lunardoesdev/fedorafused)
+
+**nixos-fused** — Декларативная конфигурация NixOS (Flake)
+Включает автоматическую разметку дисков с помощью Disko, надежную гибридную
+схему загрузчика Limine (EFI/BIOS) и безопасный корень Btrfs с шифрованием LUKS.
+[GitHub](https://github.com/lunardoesdev/nixos-fused)
+
 **Singerbox** — Go-биндинги для прокси-движка sing-box.
 Запуск инстанса внутри текущего процесса из любой ссылки (VLESS, VMess, Shadowsocks, Hysteria). Работает «из коробки» без сложной настройки, корректно завершает работу. Легко встраивается, не требует создания дочерних процессов.
 [GitHub](https://github.com/lunardoesdev/singerbox)
+
+**singerbench2** — Высокопроизводительный тестер прокси-ссылок
+Обрабатывает ссылки на подписки (VLESS, VMess и др.) и оценивает
+доступность узлов, надежно отфильтровывая неработающие эндпоинты
+для вывода только активных серверов.
+[GitHub](https://github.com/lunardoesdev/singerbench2)
 
 **Radihypn** — Интернет-радио на C++/GTK3 с иконкой в трее.
 Легковесное нативное десктопное приложение для Linux. Воспроизведение потокового аудио, интеграция в системный трей, минимальное потребление ресурсов.

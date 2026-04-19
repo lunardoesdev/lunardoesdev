@@ -32,11 +32,27 @@ when the project demands it.
 creation process is detailed).
 [GitHub](https://github.com/lunardoesdev/mintfused)
 
+**fedorafused** — Custom Fedora Workstation live ISO
+Automated build pipeline using KIWI NG to generate a tailored,
+ready-to-deploy Fedora Workstation live environment.
+[GitHub](https://github.com/lunardoesdev/fedorafused)
+
+**nixos-fused** — Declarative NixOS configuration flake
+Features automated Disko partitioning, a robust hybrid EFI/BIOS
+Limine bootloader layout, and a secure LUKS-encrypted Btrfs root.
+[GitHub](https://github.com/lunardoesdev/nixos-fused)
+
 **Singerbox** — Go bindings for sing-box proxy engine
 In-process instance spawning from any share link (VLESS,
 VMess, Shadowsocks, Hysteria). Zero-config defaults,
 clean teardown. Embeddable, no subprocesses.
 [GitHub](https://github.com/lunardoesdev/singerbox)
+
+**singerbench2** — High-performance proxy link tester
+Ingests subscription links (VLESS, VMess, etc.) and evaluates
+node availability, reliably filtering out dead endpoints to
+output only working, active servers.
+[GitHub](https://github.com/lunardoesdev/singerbench2)
 
 **Radihypn** — C++/GTK3 internet radio with tray icon
 Lightweight native Linux desktop app. Stream playback,

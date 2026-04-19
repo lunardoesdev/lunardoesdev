@@ -26,9 +26,24 @@
 （由于 GitHub 免费账户的限制，ISO 缺失，但详细描述了创建过程）。
 [GitHub](https://github.com/lunardoesdev/mintfused)
 
+**fedorafused** — 自定义 Fedora Workstation 实时 ISO
+使用 KIWI NG 的自动构建流水线，生成量身定制且可随时部署的
+Fedora Workstation 实时环境。
+[GitHub](https://github.com/lunardoesdev/fedorafused)
+
+**nixos-fused** — 声明式 NixOS 配置 Flake
+具有 Disko 自动分区、强大的混合 EFI/BIOS Limine 引导加载程序布局，
+以及安全的 LUKS 加密 Btrfs 根文件系统。
+[GitHub](https://github.com/lunardoesdev/nixos-fused)
+
 **Singerbox** — sing-box 代理引擎的 Go 语言绑定
 支持从任何分享链接（VLESS, VMess, Shadowsocks, Hysteria）创建进程内实例。零配置默认设置，干净安全的内存释放。易于嵌入，无需启动子进程。
 [GitHub](https://github.com/lunardoesdev/singerbox)
+
+**singerbench2** — 高性能代理链接测试器
+摄取订阅链接（VLESS、VMess 等）并评估节点可用性，
+可靠地过滤掉失效的端点，仅输出正常工作且活跃的服务器。
+[GitHub](https://github.com/lunardoesdev/singerbench2)
 
 **Radihypn** — 带有托盘图标的 C++/GTK3 网络电台
 轻量级的 Linux 原生桌面应用。支持流媒体播放、系统托盘集成，占用极少的系统资源。

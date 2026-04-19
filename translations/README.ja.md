@@ -27,9 +27,25 @@
 詳細に記載されています）。
 [GitHub](https://github.com/lunardoesdev/mintfused)
 
+**fedorafused** — カスタム Fedora Workstation ライブ ISO
+KIWI NG を使用した自動ビルドパイプラインにより、展開準備が整った
+カスタム Fedora Workstation ライブ環境を生成します。
+[GitHub](https://github.com/lunardoesdev/fedorafused)
+
+**nixos-fused** — 宣言的な NixOS 構成の Flake
+Disko による自動パーティショニング、堅牢なハイブリッド EFI/BIOS
+Limine ブートローダーのレイアウト、安全な LUKS 暗号化 Btrfs ルートを備えています。
+[GitHub](https://github.com/lunardoesdev/nixos-fused)
+
 **Singerbox** — sing-boxプロキシエンジンのGoバインディング
 任意の共有リンク（VLESS, VMess, Shadowsocks, Hysteria）から同一プロセス内でインスタンスを生成。ゼロコンフィグなデフォルト設定とクリーンな終了処理。サブプロセス不要で、システムへの組み込みが容易。
 [GitHub](https://github.com/lunardoesdev/singerbox)
+
+**singerbench2** — 高性能なプロキシリンクテスター
+サブスクリプションリンク (VLESS、VMessなど) を読み込み、ノードの
+可用性を評価。機能しないエンドポイントを確実にフィルタリングし、
+アクティブで稼働中のサーバーのみを出力します。
+[GitHub](https://github.com/lunardoesdev/singerbench2)
 
 **Radihypn** — トレイアイコン付きC++/GTK3インターネットラジオ
 軽量なLinux向けネイティブデスクトップアプリ。ストリーミング再生、システムトレイ連携、最小限のリソース消費を実現。
