@@ -22,6 +22,10 @@ Desarrollo herramientas de bajo nivel, bindings para protocolos y aplicaciones m
 
 ## Proyectos Destacados
 
+**static code school proof-of-concept** — Plataforma interactiva de escuela de código en el navegador
+Aplicación de prueba de concepto que incluye un editor de código Monaco y ejecución de código Go en el lado del cliente utilizando un intérprete Yaegi compilado en WebAssembly. Al ejecutar pruebas de código directamente en el navegador, elimina por completo la necesidad de costosos servidores VPS o ejecutores backend, lo que permite a cualquiera alojar una escuela de código completamente funcional de forma gratuita en cualquier página web estática. Analiza lecciones y pruebas basadas en Markdown.
+[GitHub](https://github.com/lunardoesdev/static-code-school-poc) | [Demo](https://lunardoesdev.github.io/static-code-school-poc/)
+
 **Mintfused** — Distribución de Linux personalizada basada en Linux Mint.
 (Falta la ISO debido a las limitaciones de la cuenta gratuita de GitHub,
 pero el proceso de creación se detalla).

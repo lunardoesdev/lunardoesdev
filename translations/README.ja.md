@@ -22,6 +22,10 @@
 
 ## 主要プロジェクト
 
+**static code school proof-of-concept** — インタラクティブなブラウザ内コードスクールプラットフォーム
+Monaco コードエディターと、WebAssembly でコンパイルされた Yaegi インタプリタを使用したクライアントサイドでの Go コード実行を特徴とする概念実証アプリケーションです。ブラウザ内で直接コードテストを実行することで、高価な VPS サーバーやバックエンド実行環境が完全に不要になり、誰でも完全に機能するコードスクールを任意の静的ウェブページ上で無料でホストできるようになります。Markdown ベースのレッスンとテストを解析します。
+[GitHub](https://github.com/lunardoesdev/static-code-school-poc) | [Demo](https://lunardoesdev.github.io/static-code-school-poc/)
+
 **Mintfused** — Linux Mint ベースのカスタム Linux ディストリビューション
 （GitHubの無料アカウントの制限によりISOはありませんが、作成プロセスは
 詳細に記載されています）。
