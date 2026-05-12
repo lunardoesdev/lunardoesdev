@@ -23,7 +23,7 @@
 ## 精选项目
 
 **static code school proof-of-concept** — 交互式浏览器内编程学校平台
-一个概念验证应用，配备了 Monaco 代码编辑器，并使用编译为 WebAssembly 的 Yaegi 解释器在客户端执行 Go 代码。通过直接在浏览器中运行代码测试，它完全消除了对昂贵的 VPS 服务器或后端执行器的需求，使任何人都能在任何静态网页上免费托管一个功能齐全的编程学校。它能解析基于 Markdown 的课程和测试。
+一个概念验证应用，配备了 Monaco 代码编辑器，并使用编译为 WebAssembly 的 Yaegi 解释器在客户端执行 Go 代码。通过直接在浏览器中运行代码测试，它完全消除了对昂贵的 VPS 服务器或后端执行器的需求，使任何人都能在任何静态网页上免费托管一个功能齐全的编程学校。它能解析基于 Markdown 的课程和测试。*（注：在网络连接较慢的情况下，WebAssembly 解释器可能需要一些时间来加载。）*
 [GitHub](https://github.com/lunardoesdev/static-code-school-poc) | [Demo](https://lunardoesdev.github.io/static-code-school-poc/)
 
 **Mintfused** — 基于 Linux Mint 的自定义 Linux 发行版

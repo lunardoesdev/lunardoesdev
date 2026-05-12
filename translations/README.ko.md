@@ -23,7 +23,7 @@
 ## 주요 프로젝트
 
 **static code school proof-of-concept** — 대화형 브라우저 내 코드 스쿨 플랫폼
-Monaco 코드 편집기와 WebAssembly로 컴파일된 Yaegi 인터프리터를 사용하여 클라이언트 측에서 Go 코드를 실행하는 개념 증명(PoC) 애플리케이션입니다. 브라우저에서 직접 코드 테스트를 실행함으로써 값비싼 VPS 서버나 백엔드 실행기가 전혀 필요하지 않으며, 누구나 정적 웹페이지에서 무료로 완전히 작동하는 코드 스쿨을 호스팅할 수 있습니다. Markdown 기반 레슨과 테스트를 파싱합니다.
+Monaco 코드 편집기와 WebAssembly로 컴파일된 Yaegi 인터프리터를 사용하여 클라이언트 측에서 Go 코드를 실행하는 개념 증명(PoC) 애플리케이션입니다. 브라우저에서 직접 코드 테스트를 실행함으로써 값비싼 VPS 서버나 백엔드 실행기가 전혀 필요하지 않으며, 누구나 정적 웹페이지에서 무료로 완전히 작동하는 코드 스쿨을 호스팅할 수 있습니다. Markdown 기반 레슨과 테스트를 파싱합니다. *(참고: 연결이 느린 경우 WebAssembly 인터프리터를 로드하는 데 시간이 걸릴 수 있습니다.)*
 [GitHub](https://github.com/lunardoesdev/static-code-school-poc) | [Demo](https://lunardoesdev.github.io/static-code-school-poc/)
 
 **Mintfused** — Linux Mint 기반의 맞춤형 Linux 배포판

@@ -28,7 +28,7 @@ when the project demands it.
 ## Featured Projects
 
 **static code school proof-of-concept** — Interactive in-browser code school platform
-A proof-of-concept application featuring a Monaco code editor and client-side Go execution using a WebAssembly-compiled Yaegi interpreter. By running code tests directly in the browser, it completely eliminates the need for expensive VPS servers or backend executors, allowing anyone to host a fully functional code school for free on any static webpage. It parses Markdown-based lessons and tests.
+A proof-of-concept application featuring a Monaco code editor and client-side Go execution using a WebAssembly-compiled Yaegi interpreter. By running code tests directly in the browser, it completely eliminates the need for expensive VPS servers or backend executors, allowing anyone to host a fully functional code school for free on any static webpage. It parses Markdown-based lessons and tests. *(Note: The WebAssembly interpreter may take a moment to load on slower connections.)*
 [GitHub](https://github.com/lunardoesdev/static-code-school-poc) | [Demo](https://lunardoesdev.github.io/static-code-school-poc/)
 
 **Mintfused** — Custom Linux distribution based on Linux Mint
